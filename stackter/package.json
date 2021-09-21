@@ -1,0 +1,28 @@
+{
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-vue": "^7.18.0",
+        "prettier": "^2.4.1",
+        "vue": "^3.2.12",
+        "vue-meta": "^3.0.0-alpha.9",
+        "vue-router": "^4.0.11",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^1.8.1",
+        "@vue/compiler-sfc": "^3.2.12",
+        "autoprefixer": "^10.3.4",
+        "postcss": "^8.3.6",
+        "tailwindcss": "^2.2.15",
+        "vite": "^2.5.10",
+        "vite-plugin-components": "^0.13.3",
+        "vite-plugin-pages": "^0.18.1",
+        "vite-plugin-vue-layouts": "^0.5.0"
+    }
+}
